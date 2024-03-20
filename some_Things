@@ -1,21 +1,25 @@
-1. I need to learn more MAC stuff, I may be working with 
+1. I need to learn more MAC stuff, I may be working with
    people that may use MAC, or for a company that requires MAC
 
-2. Always make sure someone is in the correct folder first, 
-   for trouble shooting purposes. pwd is a good way to do that. 
+2. Always make sure someone is in the correct folder first,
+   for trouble shooting purposes. pwd is a good way to do that.
 
-3. Remember: there are many ways to do things. 
+3. Remember: there are many ways to do things.
 
-4. Be patient. 
+4. Be patient.
 
-5. I cant see shared screens well; Maybe get 
-   stronger glasses. 
+5. I cant see shared screens well; Maybe get
+   stronger glasses.
 
 6. Working in groups is very important. So happy I get to practice
    that. This is a major skill I get to develope in this course.
 
 7. Git is a distributed version control system, didn't know what its
    actually doing was called, not a centralized version control
-   system. 
+   system.
 
 8. Git was created in 2005 by Linus Torvalds
+
+9. Make sure you push your changes before switching branches
+
+10. Make sure you are on the branch you're MERGING TO
